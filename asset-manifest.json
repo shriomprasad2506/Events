@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Events/static/css/main.7a1abe6f.css",
-    "main.js": "/Events/static/js/main.90293ec4.js",
+    "main.js": "/Events/static/js/main.41526839.js",
     "static/js/453.8ab44547.chunk.js": "/Events/static/js/453.8ab44547.chunk.js",
     "static/media/roboto-latin-700-normal.woff2": "/Events/static/media/roboto-latin-700-normal.4535474e1cf8598695ad.woff2",
     "static/media/roboto-latin-500-normal.woff2": "/Events/static/media/roboto-latin-500-normal.7077203b1982951ecf76.woff2",
@@ -61,11 +61,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Events/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/Events/index.html",
     "main.7a1abe6f.css.map": "/Events/static/css/main.7a1abe6f.css.map",
-    "main.90293ec4.js.map": "/Events/static/js/main.90293ec4.js.map",
+    "main.41526839.js.map": "/Events/static/js/main.41526839.js.map",
     "453.8ab44547.chunk.js.map": "/Events/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a1abe6f.css",
-    "static/js/main.90293ec4.js"
+    "static/js/main.41526839.js"
   ]
 }
